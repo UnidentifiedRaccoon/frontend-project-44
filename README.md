@@ -48,3 +48,14 @@ brain-gcd
 
 **Демонстрация:**
 [![asciicast](https://asciinema.org/a/RORJyTjurjFm6BfRtspWzUjEl.svg)](https://asciinema.org/a/RORJyTjurjFm6BfRtspWzUjEl)
+
+### Арифметическая прогрессия
+Найдите пропущенное число в арифметической прогрессии.
+
+**Как играть:**
+```bash
+brain-progression
+```
+
+**Демонстрация:**
+[![asciicast](https://asciinema.org/a/6qdndtvhS7Tqd27xalhEK88UY.svg)](https://asciinema.org/a/6qdndtvhS7Tqd27xalhEK88UY)
