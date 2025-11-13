@@ -59,3 +59,14 @@ brain-progression
 
 **Демонстрация:**
 [![asciicast](https://asciinema.org/a/6qdndtvhS7Tqd27xalhEK88UY.svg)](https://asciinema.org/a/6qdndtvhS7Tqd27xalhEK88UY)
+
+### Простое ли число?
+Определите, является ли число простым.
+
+**Как играть:**
+```bash
+brain-prime
+```
+
+**Демонстрация:**
+[![asciicast](https://asciinema.org/a/ZMPxMkkHeSd3FiCcnunMumCDC.svg)](https://asciinema.org/a/ZMPxMkkHeSd3FiCcnunMumCDC)
