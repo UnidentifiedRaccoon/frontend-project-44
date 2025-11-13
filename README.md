@@ -37,3 +37,14 @@ brain-calc
 
 **Демонстрация:**
 [![asciicast](https://asciinema.org/a/532u5x20PFvBO8eBQPisyZENe.svg)](https://asciinema.org/a/532u5x20PFvBO8eBQPisyZENe)
+
+### НОД (Наибольший общий делитель)
+Найдите наибольший общий делитель двух чисел.
+
+**Как играть:**
+```bash
+brain-gcd
+```
+
+**Демонстрация:**
+[![asciicast](https://asciinema.org/a/RORJyTjurjFm6BfRtspWzUjEl.svg)](https://asciinema.org/a/RORJyTjurjFm6BfRtspWzUjEl)
